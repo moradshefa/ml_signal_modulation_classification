@@ -112,4 +112,4 @@ Simple embedding of our small mnist model (no legend, no prediction probability)
 
 <br><img align="left" width="470" height="420" src="https://user-images.githubusercontent.com/22650698/44553335-f69ae980-a6e1-11e8-82d9-29231cc6791a.png">
 
-Embedding showing the legend and the predicted probability for each class of points. The points over which we hover is predicted to be a 1 with probability 0.822.
+Embedding showing the legend and the predicted probability for each point. The point over which we hover is labelled 1 with predicted probability 0.822.
