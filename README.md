@@ -48,7 +48,7 @@ Dimensionality reduction using t-distributed stochastic neighbor embedding (t-SN
 
 <br>
 Example of a vanilla convolutional neural network. <br>Picture credit: MDPI: "A Framework for Designing the Architectures of Deep Convolutional Neural Networks"
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 <img align="left" width="444" height="444" src="https://user-images.githubusercontent.com/22650698/44546670-85513b80-a6cd-11e8-93be-83c6feefab2d.png">
