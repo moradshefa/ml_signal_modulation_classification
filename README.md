@@ -41,7 +41,7 @@ Inception Layers:
 Dimensionality reduction using t-distributed stochastic neighbor embedding (t-SNE) and principal component analysis (PCA) to visualize feature extraction and diagnose problems of the architecture. 
 <br><br>These t-SNE plots helped us to evaluate our models on unlabelled test data that was distributed differently than training data.
 <br><br>Dimensionality reduction after extracting features of 16PSK (red), 2FSK_5kHz (green),AM_DSB (blue)
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <img align="left" width="444" height="211" src="https://user-images.githubusercontent.com/22650698/44546552-24296800-a6cd-11e8-8417-aaa4f244e42e.png">
