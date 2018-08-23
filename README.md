@@ -102,6 +102,14 @@ our results with our data (morad_scatch.ipynb)
 * the notebook we used to get the t-SNE embeddings on training and unlabelled test data to evaluate models (tsne_clean.ipynb)
 * simplified code that can be used to get your own t-SNE embeddings on your own Keras models and plot them interactively using Bokeh if you desire (tsne_utils.py) 
 * a notebook that uses tsne_utils.py and one of our models to get embeddings for signal modulation data on training data only (tsne_train_only.ipynb)
-* a notebook to do t-SNE on the mnist data and model (mnist_tsne.ipynb)
 * the mnist model (mnist_model.h5)
+* a notebook to do t-SNE on the mnist data and model (mnist_tsne.ipynb)
 
+<br><img align="left" width="470" height="420" src="https://user-images.githubusercontent.com/22650698/44552995-f77f4b80-a6e0-11e8-9267-2e95bd400fbb.png">
+
+Simple embedding of our small mnist model (no legend, no prediction probability). As we can see the data maps decently into 10 different clusters.
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><img align="left" width="470" height="420" src="https://user-images.githubusercontent.com/22650698/44553335-f69ae980-a6e1-11e8-82d9-29231cc6791a.png">
+
+Embedding showing the legend and the predicted probability for each class of points. The points over which we hover is predicted to be a 1 with probability 0.822.
