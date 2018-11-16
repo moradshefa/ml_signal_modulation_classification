@@ -82,7 +82,7 @@ CNNs are able to achieve high accuracy in classification of signal modulations a
 * The ability of CNNs to classify signal modulations at high accuracy shows great promise in the future of using CNNs and other machine learning methods to classify RFI
 * Future work can focus on extending these methods to classify modulations in real data
 * One can use machine learning methods  to extend these models to real data
-  * Use domain adaption to find performing model for a target distribution that is different from the source distribution/ training data
+  * Use domain adaptation to find performing model for a target distribution that is different from the source distribution/ training data
   * Label real data and train a classifier
 
 <img align="left" width="390" height="300" src="https://user-images.githubusercontent.com/22650698/44547872-4624e980-a6d1-11e8-849f-0ae5f8f9fe6b.png">
